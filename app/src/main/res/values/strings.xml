@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+
+    <string name="nick">Username</string>
+    <string name="nick_hint">e.g. John</string>
+    <string name="ipaddress">IP address</string>
+    <string name="ipaddress_hint">e.g. 192.168.0.10</string>
+    <string name="port">Port</string>
+    <string name="port_hint">e.g. 12074</string>
+    <string name="connect">Connect</string>
+    <string name="fill_all">You must fill all fields</string>
+    <string name="check_your_fields">Check your fields</string>
+    <string name="message_hint">Enter a Message</string>
+    <string name="send">Send</string>
+
+    <string name="quit_menu_item">Quit</string>
+    <string name="quit_title">Quit?</string>
+    <string name="quit_message">Are you sure you want to quit?</string>
+    <string name="quit_ok">Quit</string>
+    <string name="quit_cancel">Cancel</string>
+    <string name="bye">Goodbye</string>
+
+    <string name="change_user_menu_item">Change username</string>
+    <string name="change_user_title">Change username?</string>
+    <string name="change_user_message">Choose a new username</string>
+    <string name="change_user_ok">Change</string>
+    <string name="change_user_cancel">Cancel</string>
+    <string name="change_user_toast">Username changed</string>
+</resources>

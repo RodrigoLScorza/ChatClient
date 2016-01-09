@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/menu_quit"
+        android:title="@string/quit_menu_item"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_change_user"
+        android:title="@string/change_user_menu_item"
+        android:orderInCategory="99"
+        app:showAsAction="never" />
+</menu>
